@@ -28,7 +28,7 @@ This project is a Java-based application that announces train arrival informatio
 1. **Clone the Repository**:
    
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Optimas-CSE23L197/India_Railway_Announcement
    cd train-timetable-announcement-system
 Set Up the Database:
 
