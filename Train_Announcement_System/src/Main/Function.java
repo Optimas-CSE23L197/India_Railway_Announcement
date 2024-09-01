@@ -21,8 +21,8 @@ public class Function {
 
     // Database connection details
     private final String url = "jdbc:mysql://localhost:3306/train_timetable";
-    private final String user = "root";
-    private final String pass = "Karan@144007#";
+    private final String user = "use your sql name";
+    private final String pass = "use your sql password";
 
     // Establish database connection
     private Connection connect() throws SQLException {
